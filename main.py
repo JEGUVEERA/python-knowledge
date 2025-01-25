@@ -1,9 +1,17 @@
 def hello (jaggu) :
-     return "Hello World!,{jaggu}"
-print ("hello ")
+     return "{hello},{jaggu}"
+print ("hello ","jaggu")
 
 jaggu = "jaggu"
 mounika = "mounika"
+
+
+
+
+
+
+
+
 #  echo "# python-knowledge" >> README.md
 # git init
 # git add README.md
