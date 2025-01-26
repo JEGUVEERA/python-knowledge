@@ -1,6 +1,20 @@
+<<<<<<< HEAD
 # def hello (jaggu) :
 #      return "Hello World!,{jaggu}"
 # print ("(hello , tarun"),("hello , jaggu"),("hello , mounika")   
+=======
+def hello (jaggu) :
+     return "{hello},{jaggu}"
+print ("hello ","jaggu")
+else:
+    return "hello, mounika"
+
+jaggu = "jaggu"
+mounika = "mounika"
+
+
+
+>>>>>>> temp
 
 
 # for i in range(10):
@@ -14,6 +28,8 @@
 # tarun = "tarun"
 # jaggu = "jaggu"
 # mounika = "mounika"
+
+
 
 #  echo "# python-knowledge" >> README.md
 # git init
