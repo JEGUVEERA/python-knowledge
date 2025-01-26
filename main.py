@@ -1,16 +1,19 @@
-def hello (jaggu) :
-     return "{hello},{jaggu}"
-print ("hello ","jaggu")
+# def hello (jaggu) :
+#      return "Hello World!,{jaggu}"
+# print ("(hello , tarun"),("hello , jaggu"),("hello , mounika")   
 
+
+for i in range(10):
+     print(i)
+     if i == 5:
+          break 
+     else:
+          print("done")
+
+
+tarun = "tarun"
 jaggu = "jaggu"
 mounika = "mounika"
-
-
-
-
-
-
-
 
 #  echo "# python-knowledge" >> README.md
 # git init
